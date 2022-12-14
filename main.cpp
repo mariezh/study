@@ -1,5 +1,5 @@
 int main(int argc, char* argv[])
 {
-    std::cout << 23 << std::endl;
+    std::cout << 42 << std::endl;
     return 0;
 }
